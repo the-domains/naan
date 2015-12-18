@@ -1,0 +1,28 @@
+name: naan
+favicon: null
+layout_spectrum: 0.22640536585822701
+typography_spectrum: 0.13668179814703763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4883794018533081
+  lightness: 0.07433584774844348
+  saturation: 0.28716604388318956
+  rhythmicContrast: 0.20681415125727654
+purpose: []
